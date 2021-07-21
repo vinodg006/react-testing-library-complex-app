@@ -3,9 +3,6 @@ import ReactDOM from "react-dom";
 import "./index.css";
 import App from "./App";
 import reportWebVitals from "./reportWebVitals";
-{
-  /* The following line can be included in your src/index.js or App.js file*/
-}
 import "bootstrap/dist/css/bootstrap.min.css";
 
 ReactDOM.render(
