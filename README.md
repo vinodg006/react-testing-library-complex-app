@@ -6,7 +6,7 @@ This project accompanies the Udemy course [Testing React with Jest and Testing L
 
 ### 1. Order Summary Page
 
-![Order Summary Page](https://github.com/bonnie/udemy-TESTING-LIBRARY/blob/master/finished-projects/sundaes-on-demand/mock-ups/1-summary-page.png)
+![Order Summary Page](https://github.com/bonnie/udemy-TESTING-LIBRARY/blob/master/finished-projects/sundaes-on-demand/mock-ups/1-order-summary-page.png)
 
 ### 2. Terms and Conditions Popover
 
